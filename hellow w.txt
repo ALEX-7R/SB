@@ -1,5 +1,9 @@
-print ("Hellow world")
-PRINT
+print ("Hellow world;");
+PRINT;
 
-print("Hello my dear friend")
-print("lad to srr you")
+print("Hello my dear friend;")
+print("lad to srr you;")
+
+
+
+

@@ -1,2 +1,4 @@
 print ("Hellow world")
 PRINT
+
+print("Hello my dear friend")

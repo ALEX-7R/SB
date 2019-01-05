@@ -1,2 +1,2 @@
-print ("Hellow world")
-PRINT
+print ("Hellow world;");
+PRINT;
